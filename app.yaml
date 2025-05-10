@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: eksapp
-          image: davidayo97/eks-app:7856eccbb620360984007f22e36681b104df35b5
+          image: davidayo97/eks-app:7c1ac9a788e3e1b236ba5e47e24ccee06cf22195
           ports:
             - containerPort: 8080
 ---
