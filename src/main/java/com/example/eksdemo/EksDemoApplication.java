@@ -17,7 +17,7 @@ class DemoController {
 
     @GetMapping("/")
     public String home() {
-        return "Welcome to EKS!";
+        return "Welcome to EKS Version 2!!";
     }
 
     @GetMapping("/health")
